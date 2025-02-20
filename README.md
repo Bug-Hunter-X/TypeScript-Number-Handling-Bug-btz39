@@ -1,0 +1,1 @@
+This repository demonstrates a common error in TypeScript:  incomplete number handling in conditional logic.  The `printNumber` function correctly manages 0, 1, and 2 but lacks comprehensive handling for numbers beyond 2. The solution shows how to improve the function's robustness.
